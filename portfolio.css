@@ -1,0 +1,52 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/premium-photo/black-rectangular-mockups-dark-concrete-background-design-elements-portfolio-copy-space_76255-1685.jpg?w=360");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-container_1 {
+    background-image: url("https://img.freepik.com/premium-photo/black-rectangular-mockups-dark-concrete-background-design-elements-portfolio-copy-space_76255-1685.jpg?w=360");
+    background-size: cover;
+    height: 130vh;
+}
+
+
+.main-heading {
+    color: white;
+    padding: 40px;
+    text-align: center;
+    font-family: "bree-serif";
+    text-decoration: underline;
+}
+
+.name {
+    color: rgb(255, 251, 251);
+    padding: 0px;
+    text-align: center;
+    font-family: "bree-serif";
+
+
+}
+
+.paragraph {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: "bree-serif";
+    font-size: 20px;
+
+
+}
+
+.img {
+    height: 190px;
+    width: 190px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.text_align {
+    text-align: center;
+    padding: 20px;
+}
